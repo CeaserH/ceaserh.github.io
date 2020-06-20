@@ -2360,11 +2360,6 @@ p {
   border-radius: 10px;
 }
 
-#skillsMain {
-  display: inline-block;
-  width: 75%;
-}
-
 #skillsSec {
   position: relative;
 }
